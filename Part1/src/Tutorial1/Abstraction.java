@@ -7,7 +7,7 @@ package Tutorial1;
 
 /**
  *
- * @author BHASKAR CHAUDHURY
+ * @author BHASKAR CHAUDHUR
  * 
  * Data Abstraction is the property by virtue of which only the essential 
  * details are displayed to the user.The trivial or the non-essentials units 
