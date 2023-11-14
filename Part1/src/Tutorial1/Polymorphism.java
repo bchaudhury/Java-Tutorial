@@ -44,7 +44,7 @@ public class Polymorphism {
         Polymorphism s = new Polymorphism(); 
         System.out.println(s.sum(10, 20)); 
         System.out.println(s.sum(10, 20, 30)); 
-        System.out.println(s.sum(10.5, 20.5)); 
+        System.out.println(s.sum(10.1, 20.5)); 
     } 
     
 }
