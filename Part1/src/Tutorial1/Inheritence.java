@@ -16,7 +16,7 @@ public class Inheritence {
     { 
           
         MountainBike mb; 
-        mb = new MountainBike(3, 100, 25);
+        mb = new MountainBike(4, 200, 50);
         System.out.println(mb.toString()); 
               
     }
